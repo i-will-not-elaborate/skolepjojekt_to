@@ -1,0 +1,8 @@
+#map { height: 500px; }
+#p_c, #st{
+	font-size:22px; padding: 10px;
+}
+#s_board{
+	display:flex;
+	flex-direction: row;
+}
